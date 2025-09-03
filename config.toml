@@ -1,4 +1,4 @@
-baseURL = 'https://arturo-shimabukuro.github.io/test-data-portafolio/'
+baseURL = 'https://arturo-shimabukuro.github.io/'
 languageCode = 'en-us'
 title = "Poison"
 theme = "poison"
