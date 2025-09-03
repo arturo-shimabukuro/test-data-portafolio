@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://arturo-shimabukuro.github.io/test-data-portafolio/about/</loc>
+    <lastmod>2022-11-30T15:04:46-06:00</lastmod>
+  </url><url>
+    <loc>https://arturo-shimabukuro.github.io/test-data-portafolio/about/about/</loc>
+    <lastmod>2022-11-30T15:04:46-06:00</lastmod>
+  </url><url>
+    <loc>https://arturo-shimabukuro.github.io/test-data-portafolio/</loc>
+    <lastmod>2022-11-30T15:04:46-06:00</lastmod>
+  </url><url>
+    <loc>https://arturo-shimabukuro.github.io/test-data-portafolio/series/how-to-use-poison/</loc>
+    <lastmod>2022-11-23T13:43:53-06:00</lastmod>
+  </url><url>
+    <loc>https://arturo-shimabukuro.github.io/test-data-portafolio/tags/hugo/</loc>
+    <lastmod>2022-11-23T13:43:53-06:00</lastmod>
+  </url><url>
+    <loc>https://arturo-shimabukuro.github.io/test-data-portafolio/posts/introducing-poison/</loc>
+    <lastmod>2022-11-23T13:43:53-06:00</lastmod>
+  </url><url>
+    <loc>https://arturo-shimabukuro.github.io/test-data-portafolio/tags/introduction/</loc>
+    <lastmod>2022-11-23T13:43:53-06:00</lastmod>
+  </url><url>
+    <loc>https://arturo-shimabukuro.github.io/test-data-portafolio/posts/</loc>
+    <lastmod>2022-11-23T13:43:53-06:00</lastmod>
+  </url><url>
+    <loc>https://arturo-shimabukuro.github.io/test-data-portafolio/series/</loc>
+    <lastmod>2022-11-23T13:43:53-06:00</lastmod>
+  </url><url>
+    <loc>https://arturo-shimabukuro.github.io/test-data-portafolio/tags/</loc>
+    <lastmod>2022-11-23T13:43:53-06:00</lastmod>
+  </url>
+</urlset>
