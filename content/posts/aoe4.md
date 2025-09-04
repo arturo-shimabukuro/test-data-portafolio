@@ -715,7 +715,7 @@ After the transformation, the final player ranking list had the following fields
 ### 6.1 All player profiles and matches
 This the first overall visualization of this project:
 
-![](/static//images/aoe4/visualization/6.1/AOE4_6.1_Dashboard_Overall_Games_per_player.png)
+![](static//images/aoe4/visualization/6.1/AOE4_6.1_Dashboard_Overall_Games_per_player.png)
 
 In this dashboard the following can be seen: 
 
@@ -733,7 +733,7 @@ The slicers that contains the players (Player(s) Profile and Opponent(s) Profile
 
 #### General information from the player
 
-![](/images/aoe4/visualization/6.1/AOE4_6.1_Dashboard_General_Information.png)
+![](images/aoe4/visualization/6.1/AOE4_6.1_Dashboard_General_Information.png)
 
 In the top the following information can be seen from the player selected: 
 - Specific ranked level
