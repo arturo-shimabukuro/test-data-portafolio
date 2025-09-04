@@ -716,7 +716,7 @@ After the transformation, the final player ranking list had the following fields
 This the first overall visualization of this project:
 
 ![](static//images/aoe4/visualization/6.1/AOE4_6.1_Dashboard_Overall_Games_per_player.png)
-
+![a](/static//images/aoe4/visualization/6.1/AOE4_6.1_Dashboard_Overall_Games_per_player.png)
 In this dashboard the following can be seen: 
 
 #### Slicers
