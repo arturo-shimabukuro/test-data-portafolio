@@ -7,7 +7,7 @@ pluralizelisttitles = false
 
 [params]
     brand = "Poison"
-    brand_image = "/images/brand_image.jpg"
+    # brand_image = "/images/brand_image.jpg"
     # og_image = ""                             # path to social icon - front matter: image takes precedent, then og_image, then brand_url
     # publisher_icon = ""                       # path to publisher icon - defaults to favicon, used in schema
     # favicon = ""                              # path to favicon
@@ -15,8 +15,8 @@ pluralizelisttitles = false
     dark_mode = true
 
     menu = [
-        {Name = "About", URL = "/about", HasChildren = false},
-        {Name = "Posts", URL = "/posts", HasChildren = true, Limit = 5},
+        {Name = "About", URL = "/about/", HasChildren = false},
+        {Name = "Posts", URL = "/posts/", HasChildren = true, Limit = 5},
     ]
 
     github_url = "https://github.com"
