@@ -1,5 +1,5 @@
 ---
-title: "Luis Arturo Shimabukuro Araki"
+title: "Posts"
 date: 2024-08-26T10:00:00-00:00
 draft: false
 layout: single
