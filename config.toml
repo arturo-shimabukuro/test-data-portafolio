@@ -14,10 +14,14 @@ pluralizelisttitles = false
     description = 'A pragmatic Hugo theme for bloggers. Based on the classic <a href="https://github.com/poole/hyde" target="_blank">Hyde</a> design by <a href="https://github.com/mdo" target="_blank">@mdo</a>'
     dark_mode = true
 
-    menu = [
-        {Name = "About", URL = "about", HasChildren = false},
-        {Name = "Posts", URL = "posts", HasChildren = true, Limit = 5},
-    ]
+    #menu = [
+    #    {Name = "About", URL = "about", HasChildren = false},
+    #    {Name = "Posts", URL = "posts", HasChildren = true, Limit = 5},
+    #]
+    [params.menu]
+        {Name = "About", URL = "about/", HasChildren = false},
+        {Name = "Posts", URL = "posts/", Pre = "Recent", HasChildren = true, Limit = 5},
+
 
     github_url = "https://github.com"
     linkedin_url = "https://linkedin.com"
